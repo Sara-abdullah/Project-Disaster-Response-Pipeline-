@@ -54,4 +54,13 @@ You will also need to have software installed to run and execute an iPython Note
 # Screenshots
 ![Screenshot](/screenshots/012.png)
 
+
 ![Screenshot](/screenshots/013.png)
+
+# Results
+The Disaster Response Project web app allows the user to enter a message and classifies the message into categories. It also shows some visual insights into the data such as the distribution of categories in the data sets that the model was trained on.
+
+All code is in public repository at the link below:
+https://github.com/Sara-abdullah/Project-Disaster-Response-Pipeline-
+
+Note: The focus of this learning project is not on model performance, but more on data engineering and clean code. For this reason and due to limited time, the performance of the model is unacceptable for a real-world problem at this stage of development. 
