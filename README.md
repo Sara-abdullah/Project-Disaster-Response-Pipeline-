@@ -1,9 +1,15 @@
 # Disaster Response Pipeline Project
 Udacity Disaster Response Pipeline Project.
-![Screenshot](screenshot.png)
+![Screenshot](/screenshots/011.png)
 
 # Project Motivation
-Apply machine learning skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. so that during crisis it can be send these messeges to the designated party/authority, without wasting valuable time during such a critical time.
+This Project is part of the Data Science Nanodegree Program by Udacity. The initial dataset contains pre-labeled tweets and messages from real-life disasters. The aim of the project is to build a Natural Language Processing tool that categorizes messages.
+
+The Project is divided into the following sections:
+
+- Data Processing, ETL Pipeline to extract data from the source, clean data, and save them in a proper database structure
+- Machine Learning Pipeline to train a model able to classify text message in categories
+- Web App to show model results in real-time.
 
 # Content
 * Data
@@ -51,3 +57,7 @@ You will also need to have software installed to run and execute an iPython Note
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+# Screenshots
+![Screenshot](/screenshots/012.png)
+![Screenshot](/screenshots/013.png)
