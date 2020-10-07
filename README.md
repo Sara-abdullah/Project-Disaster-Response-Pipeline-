@@ -29,18 +29,11 @@ The Project is divided into the following sections:
 
 # Install
  libraries installed:
-NumPy
-Pandas
-Matplotlib
-Json
-Plotly
-Nltk
-Flask
-Sklearn
-Sqlalchemy
-Sys
-Re
-Pickle
+ 
+- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+- Natural Language Process Libraries: NLTK
+- SQLlite Database Libraqries: SQLalchemy
+- Web App and Data Visualization: Flask, Plotly
 
 You will also need to have software installed to run and execute an iPython Notebook
 
@@ -60,4 +53,5 @@ You will also need to have software installed to run and execute an iPython Note
 
 # Screenshots
 ![Screenshot](/screenshots/012.png)
+
 ![Screenshot](/screenshots/013.png)
