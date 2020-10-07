@@ -1,26 +1,45 @@
 # Disaster Response Pipeline Project
+Udacity Disaster Response Pipeline Project.
+
+
+# Project Motivation
+Apply machine learning skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. so that during crisis it can be send these messeges to the designated party/authority, without wasting valuable time during such a critical time.
 
 # Content
-
 * Data
 
        - process_data.py: reads in the data, cleans and stores it in a SQL database. Basic usage is python- process_data.py MESSAGES_DATA CATEGORIES_DATA NAME_FOR_DATABASE.
        - disaster_categories.csv and disaster_messages.csv (dataset)
        - DisasterResponse.db: created database from transformed and cleaned data.
 
-
 * Models
 
       - train_classifier.py: includes the code necessary to load data, transform it using natural language processing, run a machine learning model using GridSearchCV and train it. Basic usage is python train_classifier.py DATABASE_DIRECTORY SAVENAME_FOR_MODEL
       
-
 * App
 
       _ run.py: Flask app and the user interface used to predict results and display them.
       - templates: folder containing the html templates
 
+# Install
+ libraries installed:
+NumPy
+Pandas
+Matplotlib
+Json
+Plotly
+Nltk
+Flask
+Sklearn
+Sqlalchemy
+Sys
+Re
+Pickle
 
-### Instructions:
+You will also need to have software installed to run and execute an iPython Notebook
+
+# Instructions : 
+
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
