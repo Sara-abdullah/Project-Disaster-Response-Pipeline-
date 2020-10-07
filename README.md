@@ -64,3 +64,6 @@ All code is in public repository at the link below:
 https://github.com/Sara-abdullah/Project-Disaster-Response-Pipeline-
 
 Note: The focus of this learning project is not on model performance, but more on data engineering and clean code. For this reason and due to limited time, the performance of the model is unacceptable for a real-world problem at this stage of development. 
+
+# Acknowledgements
+Udacity  for providing such a complete Data Science Nanodegree Program
