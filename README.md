@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 Udacity Disaster Response Pipeline Project.
-
+![Screenshot](screenshot.png)
 
 # Project Motivation
 Apply machine learning skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. so that during crisis it can be send these messeges to the designated party/authority, without wasting valuable time during such a critical time.
